@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["4GV588KH3N.io.github.znammous.nuralwahy"],
+        "components": [
+          { "/": "/quran-kids/stories/p/*" },
+          { "/": "/quran-kids/stories/*/p/*" }
+        ],
+        "appID": "4GV588KH3N.io.github.znammous.nuralwahy",
+        "paths": ["/quran-kids/stories/p/*", "/quran-kids/stories/*/p/*"]
+      }
+    ]
+  }
+}

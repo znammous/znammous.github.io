@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.znammous.nuralwahy",
+      "sha256_cert_fingerprints": [
+        "79:DE:17:10:AC:2B:6D:E1:78:43:5E:B5:CA:D3:68:93:A5:90:D1:AA:4C:E1:8B:13:08:D8:D8:50:1E:85:3A:96",
+        "5B:0A:7A:F2:EC:02:03:2C:A8:3B:7C:05:F4:8B:83:C0:EE:F9:AF:3F:26:EC:93:6B:98:7F:E3:20:81:07:4E:9B"
+      ]
+    }
+  }
+]
